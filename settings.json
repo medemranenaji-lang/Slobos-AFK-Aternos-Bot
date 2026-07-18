@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": " MRnaji1.aternos.me:29141",
+    "ip": "MRnaji1.aternos.me:29141",
     "port":  29141,
     "version": "",
     "try-creative": false
